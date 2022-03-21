@@ -1,2 +1,7 @@
-# spark_task1
-Data science _task1_supervised learning
+# GRIP:The sparks Foundation 
+
+Data science and Business analytics Intern
+
+Author : Maithri Hebbar
+
+Task 1 : Prediction using supervised ML
